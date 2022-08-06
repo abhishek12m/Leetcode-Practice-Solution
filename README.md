@@ -2,6 +2,6 @@
 
 
 ## Problem Category
-[Easy](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Easy)
-[Medium](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Medium)
-[Hard](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Hard)
+1. **[Easy](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Easy)**
+2. **[Medium](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Medium)**
+3. **[Hard](https://github.com/abhishek12m/Leetcode-Practice-Solution/tree/master/Hard)**
